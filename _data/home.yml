@@ -2,100 +2,71 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
+  - title: Mimic Trading Bot
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Projects are shown in card layout
+    highlight: WIP
 
-  - title: Project 2
+  
+  - title: Prime Autofill
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Raft
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Access to Education Globally
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Web Scraper
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: Reliable Transport Protocol
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
+  - title: BGP Router
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
 
-  - title: Project 6
+  - title: FTP Client
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
+  - title: Simple Word Guesser
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
-  - title: Cookie
+  - title: Image Processor
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
+  - title: Marble Solitaire
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
+  - title: Maze
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+
+  - title: FloodIt
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+  
+  - title: N Bullets
     url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://www.linkedin.com/in/david-alade/
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
-
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
+    url: https://github.com/david-alade
 
