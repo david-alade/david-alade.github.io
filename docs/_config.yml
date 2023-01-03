@@ -29,7 +29,7 @@ twitter_username: DavidAlade8
 github_username:  david-alade
 
 # Build settings
-remote_theme: moonwalk
+remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
 
