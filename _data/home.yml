@@ -4,7 +4,7 @@ navbar_entries:
 
 project_entries:
   - title: Mimic Trading Bot
-    url: overview-post
+    url: floodit
     desc: Personalized crypto trading bot written in python.
     highlight: WIP
 
@@ -33,7 +33,7 @@ project_entries:
     desc: Java image processor that can apply various filters and transformations to uploaded images. 
 
   - title: BGP Router
-    url: overview-post
+    url: bgprouter
     desc: Python implementation of a simple BGP router.
 
   - title: FTP Client
@@ -41,7 +41,7 @@ project_entries:
     desc: Python client implementation for the File Transfer Protocol. 
 
   - title: Marble Solitaire
-    url: https://github.com/abhinavs/moonwalk
+    url: marblesolitaire
     desc: Text based version of Marble Solitaire written in Java, with adjustable board sizes and shapes
 
   - title: Simple Word Guesser
@@ -49,15 +49,15 @@ project_entries:
     desc: Python implementation of a simple socket based word guesser. 
 
   - title: Maze Solver
-    url: https://www.humangous.co
+    url: maze
     desc: Java implementation of a maze solver that creates and solves randomized mazes.
 
   - title: Flood It
-    url: https://www.humangous.co
+    url: floodit
     desc: Java implementation of the game Flood It!
   
   - title: N Bullets
-    url: https://www.humangous.co
+    url: nbullets
     desc: Java spinoff of the game 10 Bullets. 
 
 footer_entries:

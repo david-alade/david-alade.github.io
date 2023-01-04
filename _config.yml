@@ -48,7 +48,7 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Recent Projects
+    title_projects: Projects
 
 highlighter: rouge
 
