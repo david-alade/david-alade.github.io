@@ -5,63 +5,60 @@ navbar_entries:
 project_entries:
   - title: Mimic Trading Bot
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Personalized crypto trading bot written in python.
     highlight: WIP
 
-  
   - title: Prime Autofill
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Chrome extension to automatically populate personal and payment details.
 
   - title: Raft
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Python implementation of the Raft consensus algorithm. 
 
-  - title: Access to Education Globally
+  - title: Access to Education Globally 
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Study exploring the significance of education as it pertains to a country’s status.
 
   - title: Web Scraper
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Simple web scraper that traverses "fakebook" for flags hidden throughout the site. 
 
   - title: Reliable Transport Protocol
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: BGP Router
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-
-  - title: FTP Client
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
-  - title: Simple Word Guesser
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+    desc: Python implementation of a simple transport protocol that provides reliable datagram service.
 
   - title: Image Processor
     url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+    desc: Java image processor that can apply various filters and transformations to uploaded images. 
+
+  - title: BGP Router
+    url: overview-post
+    desc: Python implementation of a simple BGP router.
+
+  - title: FTP Client
+    url: overview-post
+    desc: Python client implementation for the File Transfer Protocol. 
 
   - title: Marble Solitaire
     url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+    desc: Text based version of Marble Solitaire written in Java, with adjustable board sizes and shapes
 
-  - title: Maze
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Simple Word Guesser
+    url: https://www.soopr.co
+    desc: Python implementation of a simple socket based word guesser. 
 
-  - title: FloodIt
+  - title: Maze Solver
     url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+    desc: Java implementation of a maze solver that creates and solves randomized mazes.
+
+  - title: Flood It
+    url: https://www.humangous.co
+    desc: Java implementation of the game Flood It!
   
   - title: N Bullets
     url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+    desc: Java spinoff of the game 10 Bullets. 
 
 footer_entries:
   - title: linkedin
@@ -69,4 +66,3 @@ footer_entries:
 
   - title: github
     url: https://github.com/david-alade
-
