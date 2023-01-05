@@ -3,11 +3,6 @@ navbar_entries:
     url: about
 
 project_entries:
-  - title: Mimic Trading Bot
-    url: mimic
-    desc: Personalized crypto trading bot written in python.
-    highlight: WIP
-
   - title: Prime Autofill
     url: https://chrome.google.com/webstore/detail/prime-autofill/beimkjlcabggamkjgcddbfncfeofojek?hl=en&authuser=1
     desc: Chrome extension to automatically populate personal and payment details.
