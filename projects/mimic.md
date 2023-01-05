@@ -1,12 +1,14 @@
 ---
 layout: post
 author: David Alade
-tags: [overview, moonwalk]
+tags: [mimic]
+permalink: /mimic
+title: Mimic
 ---
 
 # Mimic
 
-Mimic is a crypto trading bot that that is tailored to a certain trader's technical analysis    
+Mimic is a crypto trading bot that that is tailored to a certain trader's technical analysis strategy. 
 
 ## Images
 

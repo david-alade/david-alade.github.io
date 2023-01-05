@@ -14,7 +14,6 @@ When a player clicks a cell of a certain color, all cells of that color that are
 
 ```python
 #!/usr/bin/env -S python3 -u
-
 import argparse
 import copy
 import json

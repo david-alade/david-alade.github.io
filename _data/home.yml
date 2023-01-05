@@ -4,32 +4,32 @@ navbar_entries:
 
 project_entries:
   - title: Mimic Trading Bot
-    url: floodit
+    url: mimic
     desc: Personalized crypto trading bot written in python.
     highlight: WIP
 
   - title: Prime Autofill
-    url: overview-post
+    url: underconstruction
     desc: Chrome extension to automatically populate personal and payment details.
 
   - title: Raft
-    url: overview-post
+    url: raft
     desc: Python implementation of the Raft consensus algorithm. 
 
   - title: Access to Education Globally 
-    url: overview-post
+    url: accesstoeducation
     desc: Study exploring the significance of education as it pertains to a country’s status.
 
   - title: Web Scraper
-    url: overview-post
+    url: webscraper
     desc: Simple web scraper that traverses "fakebook" for flags hidden throughout the site. 
 
   - title: Reliable Transport Protocol
-    url: overview-post
+    url: underconstruction
     desc: Python implementation of a simple transport protocol that provides reliable datagram service.
 
   - title: Image Processor
-    url: https://github.com/abhinavs/cookie
+    url: underconstruction
     desc: Java image processor that can apply various filters and transformations to uploaded images. 
 
   - title: BGP Router
@@ -37,7 +37,7 @@ project_entries:
     desc: Python implementation of a simple BGP router.
 
   - title: FTP Client
-    url: overview-post
+    url: ftpclient
     desc: Python client implementation for the File Transfer Protocol. 
 
   - title: Marble Solitaire
@@ -45,7 +45,7 @@ project_entries:
     desc: Text based version of Marble Solitaire written in Java, with adjustable board sizes and shapes
 
   - title: Simple Word Guesser
-    url: https://www.soopr.co
+    url: wordguesser
     desc: Python implementation of a simple socket based word guesser. 
 
   - title: Maze Solver
