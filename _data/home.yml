@@ -1,11 +1,15 @@
 navbar_entries:
   - title: about
     url: about
+  - title: linkedin
+    url: https://www.linkedin.com/in/david-alade/
+  - title: github
+    url: https://github.com/david-alade
 
 project_entries:
   - title: Prime Autofill
     url: https://chrome.google.com/webstore/detail/prime-autofill/beimkjlcabggamkjgcddbfncfeofojek?hl=en&authuser=1
-    desc: Chrome extension to automatically populate personal and payment details.
+    desc: Chrome extension to automatically populate personal and payment details. (You can find the code on my github!)
 
   - title: Raft
     url: raft
@@ -20,7 +24,7 @@ project_entries:
     desc: Simple web scraper that traverses "fakebook" for flags hidden throughout the site. 
 
   - title: Reliable Transport Protocol
-    url: underconstruction
+    url: reliabletransportprotocol
     desc: Python implementation of a simple transport protocol that provides reliable datagram service.
 
   - title: Image Processor
@@ -37,7 +41,7 @@ project_entries:
 
   - title: Marble Solitaire
     url: marblesolitaire
-    desc: Text based version of Marble Solitaire written in Java, with adjustable board sizes and shapes
+    desc: Text based version of Marble Solitaire written in Java, with adjustable board sizes and shapes.
 
   - title: Simple Word Guesser
     url: wordguesser
@@ -54,10 +58,3 @@ project_entries:
   - title: N Bullets
     url: nbullets
     desc: Java spinoff of the game 10 Bullets. 
-
-footer_entries:
-  - title: linkedin
-    url: https://www.linkedin.com/in/david-alade/
-
-  - title: github
-    url: https://github.com/david-alade

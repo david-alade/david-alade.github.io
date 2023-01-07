@@ -6,7 +6,7 @@ permalink: /accesstoeducation
 title: Access to Education Globally
 ---
 
-![Access to Education](/assets/images/posterpicture.jpg) 
+<a href="/assets/images/posterpicture.jpg"><img src="/assets/images/posterpicture.jpg" alt="Poster"></a>
 
 
 # Notebook

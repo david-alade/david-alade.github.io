@@ -9,9 +9,21 @@ layout: default
 {% endif %}
 
   <h1>{{ site.title }}</h1>
+  
+  <style>
+    img {
+      float: left;
+      margin: 0px 20px 0px 0px;
+    }
+  </style>
+
+  <img src="/assets/images/homepagephoto.jpeg" alt="Girl in a jacket" width="200" height="200">
+
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
+    <p>&nbsp</p>
   {% endif %}
+  
 </header>
 
 {{ content }}
