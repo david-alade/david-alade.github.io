@@ -22,7 +22,7 @@ title: Hello! I'm David.
 author: David Alade
 email: alade.a@northeastern.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a second year computer science major at Northeastern University with a concentration in systems and a minor in mathematics. Feel free to check out some of my projects below!
+  I currently attend Northeastern University and I am pursuing a Bachelors in Computer Science with a concentration in systems and a minor in mathematics. I am currently searching for a June 2023 - Dec 2023 coop. Feel free to check out some of my projects below!
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: davidalade.info
 url: "https://david-alade.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
