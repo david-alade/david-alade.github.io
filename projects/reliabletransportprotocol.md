@@ -10,6 +10,8 @@ title: Reliable Transport Protocol
 
 When a player clicks a cell of a certain color, all cells of that color that are connected to the "flooded" componenet at the top left of the board become flooded. The goal of the game is to flood the entire board with a single color within the given amount of moves. 
 
+## Code
+
 <details>
 <summary>Send client</summary>
 

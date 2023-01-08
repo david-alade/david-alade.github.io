@@ -1,6 +1,6 @@
 navbar_entries:
-  - title: about
-    url: about
+  #- title: about
+  #  url: about
   - title: linkedin
     url: https://www.linkedin.com/in/david-alade/
   - title: github
@@ -17,7 +17,7 @@ project_entries:
 
   - title: Access to Education Globally 
     url: accesstoeducation
-    desc: Study exploring the significance of education as it pertains to a country’s status.
+    desc: Machine learning study exploring the significance of education as it pertains to a country’s status.
 
   - title: Web Scraper
     url: webscraper
@@ -27,9 +27,9 @@ project_entries:
     url: reliabletransportprotocol
     desc: Python implementation of a simple transport protocol that provides reliable datagram service.
 
-  - title: Image Processor
-    url: underconstruction
-    desc: Java image processor that can apply various filters and transformations to uploaded images. 
+  #- title: Image Processor
+  #  url: underconstruction
+  #  desc: Java image processor that can apply various filters and transformations to uploaded images. 
 
   - title: BGP Router
     url: bgprouter
