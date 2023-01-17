@@ -6,7 +6,7 @@ permalink: /webcrawler
 title: Web Crawler
 ---
 
-The following is a python web crawler that traverses a website called "fakebook". The program implements the HTTP protocol to login to the site, and get pages from it. The goal of this crawler was to look for secret flags that are hidden throughout the site within the html code. 
+The following is a python web crawler that traverses a website called "fakebook". The program implements the HTTP protocol to log in to the site and get pages from it. The goal of this crawler was to look for secret flags that are hidden throughout the site within the HTML code. 
 
 ## Code
 

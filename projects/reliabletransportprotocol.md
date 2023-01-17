@@ -6,7 +6,7 @@ permalink: /reliabletransportprotocol
 title: Reliable Transport Protocol
 ---
 
-The following is a python implementation of the reliable transport protocol. I wrote this implementation as apart of my Networks class in the fall of 2022. The protocol ensures that data is delivered in order, without duplicates, missing data, or errors. Below, the "send" client handles the sending of data across the network and the "recieve" client handles the receiving of data and printing it out in order. This program runs through a simulator that feeds the sender data to send to be outputted by the receiver. 
+The following is a python implementation of the reliable transport protocol. I wrote this implementation as a part of my Networks class in the fall of 2022. The protocol ensures that data is delivered in order, without duplicates, missing data, or errors. Below, the "send" client handles the sending of data across the network, and the "receive" client handles the receiving of data and printing it out in order. This program runs through a simulator that feeds the sender data to send to be outputted by the receiver. 
 
 ## Code
 

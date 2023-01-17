@@ -6,7 +6,7 @@ permalink: /raft
 title: Raft
 ---
 
-The following is a python implementation of the Raft consensus protocol for a distributed key-value store. I wrote this implementation as apart of my Networks class in the fall of 2022. The implentation represents the protocol for a replica in the cluster to follow to keep the whole cluster updated as a comprehensize database. The code was tested through a simulator that would send various put, and get requests to replicas while also randomly killing replicas, and leaders. 
+The following is a python implementation of the Raft consensus protocol for a distributed key-value store. I wrote this implementation as a part of my Networks class in the fall of 2022. The implementation represents the protocol for a replica in the cluster to follow to keep the whole cluster updated as a comprehensive database. The code was tested through a simulator that would send various put, and get requests to replicas while also randomly killing replicas, and leaders. 
 
 ## Code
 
