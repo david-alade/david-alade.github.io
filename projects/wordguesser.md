@@ -7,6 +7,7 @@ title: Word Guesser
 ---
 
 The following is a python implementation of a simple word guesser. I wrote this implementation as a part of my Networks class in the fall of 2022. This program simply sends guesses to a server through a socket, and the server responds with information of which letters are in the right spot for the guessed word. This information is used to narrow down the word to guess.
+
 ## Code
 
 ```python

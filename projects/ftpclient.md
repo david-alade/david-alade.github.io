@@ -6,6 +6,7 @@ permalink: /ftpclient
 title: FTP Client
 ---
 The following is a python implementation of the File Transport Protocol. I wrote this implementation as a part of my Networks class in the fall of 2022. This client connected to a northeastern FTP server and had various FTP commands run on it with various files to test its functionality. 
+
 ## Code
 
 ```python

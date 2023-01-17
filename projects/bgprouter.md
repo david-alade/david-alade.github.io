@@ -8,7 +8,6 @@ title: BGP Router
 
 The following is a python implementation of a simple BGP (Border Gateway Protocol) router. I wrote this implementation as a part of my Networks class in the fall of 2022. The router ran against a simulator that would create neighboring routers and domain sockets to connect to them, send various messages between networks, and ask the router to “dump” its forwarding table. 
 
-
 ## Code
 
 ```python
