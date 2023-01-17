@@ -19,9 +19,9 @@ project_entries:
     url: accesstoeducation
     desc: Machine learning study exploring the significance of education as it pertains to a country’s status.
 
-  - title: Web Scraper
-    url: webscraper
-    desc: Simple web scraper that traverses "fakebook" for flags hidden throughout the site. 
+  - title: Web Crawler
+    url: webcrawler
+    desc: Simple web crawler that traverses "fakebook" for flags hidden throughout the site. 
 
   - title: Reliable Transport Protocol
     url: reliabletransportprotocol

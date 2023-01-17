@@ -1,14 +1,12 @@
 ---
 layout: post
 author: David Alade
-tags: [webscraper, python]
-permalink: /webscraper
-title: Web Scraper
+tags: [webcrawler, python]
+permalink: /webcrawler
+title: Web Crawler
 ---
 
- Flood it is a simple game that I wrote in in the spring of 2022 for my Fundamentals of Computer Science 2 class. It uses the java image library and it runs using the Khoury tester library function "big-bang".
-
-When a player clicks a cell of a certain color, all cells of that color that are connected to the "flooded" componenet at the top left of the board become flooded. The goal of the game is to flood the entire board with a single color within the given amount of moves. 
+The following is a python web crawler that traverses a website called "fakebook". The program implements the HTTP protocol to login to the site, and get pages from it. The goal of this crawler was to look for secret flags that are hidden throughout the site within the html code. 
 
 ## Code
 

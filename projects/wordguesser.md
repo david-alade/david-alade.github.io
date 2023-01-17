@@ -6,10 +6,7 @@ permalink: /wordguesser
 title: Word Guesser
 ---
 
- Flood it is a simple game that I wrote in in the spring of 2022 for my Fundamentals of Computer Science 2 class. It uses the java image library and it runs using the Khoury tester library function "big-bang".
-
-When a player clicks a cell of a certain color, all cells of that color that are connected to the "flooded" componenet at the top left of the board become flooded. The goal of the game is to flood the entire board with a single color within the given amount of moves. 
-
+The following is a python implementation of a simple word guesser. I wrote this implementation as a part of my Networks class in the fall of 2022. This program simply sends guesses to a server through a socket, and the server responds with information of which letters are in the right spot for the guessed word. This information is used to narrow down the word to guess.
 ## Code
 
 ```python

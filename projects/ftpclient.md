@@ -5,11 +5,7 @@ tags: [ftpclient, python]
 permalink: /ftpclient
 title: FTP Client
 ---
-
- Flood it is a simple game that I wrote in in the spring of 2022 for my Fundamentals of Computer Science 2 class. It uses the java image library and it runs using the Khoury tester library function "big-bang".
-
-When a player clicks a cell of a certain color, all cells of that color that are connected to the "flooded" componenet at the top left of the board become flooded. The goal of the game is to flood the entire board with a single color within the given amount of moves. 
-
+The following is a python implementation of the File Transport Protocol. I wrote this implementation as a part of my Networks class in the fall of 2022. This client connected to a northeastern FTP server and had various FTP commands run on it with various files to test its functionality. 
 ## Code
 
 ```python

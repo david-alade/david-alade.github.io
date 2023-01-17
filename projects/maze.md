@@ -6,9 +6,9 @@ permalink: /maze
 title: Maze Solver
 ---
 
- Flood it is a simple game that I wrote in in the spring of 2022 for my Fundamentals of Computer Science 2 class. It uses the java image library and it runs using the Khoury tester library function "big-bang".
+ Maze is a visual representation of graph algorithms that I wrote in the spring of 2022 for my Fundamentals of Computer Science 2 class. It uses the java image library and it runs using the Khoury tester library function "big-bang".
 
-When a player clicks a cell of a certain color, all cells of that color that are connected to the "flooded" componenet at the top left of the board become flooded. The goal of the game is to flood the entire board with a single color within the given amount of moves. 
+Users start up the maze program and can press "b" for a breadth-first search or "d" for a depth-first search. Once one of those keys is pressed, the program searches for the "end" point which is at the bottom right of the maze. 
 
 ## Demo
 

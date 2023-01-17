@@ -6,9 +6,9 @@ permalink: /nbullets
 title: N Bullets
 ---
 
- Flood it is a simple game that I wrote in in the spring of 2022 for my Fundamentals of Computer Science 2 class. It uses the java image library and it runs using the Khoury tester library function "big-bang".
+ N bullets is a simple game that I wrote in the spring of 2022 for my Fundamentals of Computer Science 2 class. It uses the java image library and it runs using the Khoury tester library function "big-bang".
 
-When a player clicks a cell of a certain color, all cells of that color that are connected to the "flooded" componenet at the top left of the board become flooded. The goal of the game is to flood the entire board with a single color within the given amount of moves. 
+In N Bullets, a player can shoot "bullets" at "ships" that fly across the screen. If a bullet hits a ship, the ship explodes and turns a certain number and size of bullets that is determined by how many consecutive ships a certain bullet has hit. The goal is to destroy as many ships as possible with 10 bullets. 
 
 ## Demo
 
