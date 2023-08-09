@@ -27,9 +27,9 @@ project_entries:
     url: reliabletransportprotocol
     desc: Python implementation of a simple transport protocol that provides reliable datagram service.
 
-  #- title: Image Processor
-  #  url: underconstruction
-  #  desc: Java image processor that can apply various filters and transformations to uploaded images. 
+  - title: Image Processor
+   url: imageprocessor
+   desc: Java image processor that can apply various filters and transformations to uploaded images. 
 
   - title: BGP Router
     url: bgprouter
