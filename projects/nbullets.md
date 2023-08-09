@@ -1,7 +1,7 @@
 ---
 layout: post
 author: David Alade
-tags: [maze]
+tags: [nbullets]
 permalink: /nbullets
 title: N Bullets
 ---

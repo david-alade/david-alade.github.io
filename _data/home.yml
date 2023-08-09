@@ -28,8 +28,8 @@ project_entries:
     desc: Python implementation of a simple transport protocol that provides reliable datagram service.
 
   - title: Image Processor
-   url: imageprocessor
-   desc: Java image processor that can apply various filters and transformations to uploaded images. 
+    url: imageprocessor
+    desc: Java image processor that can apply various filters and transformations to uploaded images. 
 
   - title: BGP Router
     url: bgprouter

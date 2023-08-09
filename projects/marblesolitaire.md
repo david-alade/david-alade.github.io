@@ -12,4 +12,4 @@ The game can be played using either a triangular, European, or English board. Pl
 
 ## Demo
 
-![Maze](https://media.giphy.com/media/6fI5WLc5SGrxIlZS0Q/giphy.gif) 
+![Marble Solitaire](https://media.giphy.com/media/6fI5WLc5SGrxIlZS0Q/giphy.gif) 
